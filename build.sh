@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Building..."
-tsc --project source --out source/loops.js
+tsc --project source --out source/fibonacci.js
